@@ -10,6 +10,6 @@ voiture.année = 1969;
 voiture.passagers = [Michel, Martine];
 
 
-// question pourquoi on n appelle pas Objet tableau ?
+// si on peut faire des tableaux dans les tableaux, pourquoi faire des Objects ? Pour donner des noms à une partie de ces tableaux ?
 
 
