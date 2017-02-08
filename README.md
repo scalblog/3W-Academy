@@ -2,6 +2,8 @@
 
 exercice object voiture
 
+"use strict";
+
 var voiture;
 
 voiture = new Object();
