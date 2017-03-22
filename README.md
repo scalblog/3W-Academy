@@ -10,3 +10,5 @@ penser aux formats des images à venir : https://www.alsacreations.com/article/l
 
 PWA Progressive Web APP JM 3WAcademy
 voir le dev tools par Google
+
+WebPerf : https://www.meetup.com/fr-FR/Paris-Webperf-Meetup/
