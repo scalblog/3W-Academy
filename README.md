@@ -12,3 +12,7 @@ PWA Progressive Web APP JM 3WAcademy
 voir le dev tools par Google
 
 WebPerf : https://www.meetup.com/fr-FR/Paris-Webperf-Meetup/
+
+NodeSchool @ Mozilla voir les meetup sur le site
+
+Ubuntu Party
