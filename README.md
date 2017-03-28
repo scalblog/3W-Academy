@@ -16,3 +16,5 @@ WebPerf : https://www.meetup.com/fr-FR/Paris-Webperf-Meetup/
 NodeSchool @ Mozilla voir les meetup sur le site
 
 Ubuntu Party
+
+essayer de faire une version perso de FramaDate à partir de https://git.framasoft.org/framasoft/framadate/tree/master
