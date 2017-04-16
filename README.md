@@ -18,3 +18,5 @@ NodeSchool @ Mozilla voir les meetup sur le site
 Ubuntu Party
 
 essayer de faire une version perso de FramaDate à partir de https://git.framasoft.org/framasoft/framadate/tree/master
+
+turbo links : https://www.grafikart.fr/tutoriels/javascript/turbolinks-885
